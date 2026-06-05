@@ -1,0 +1,48 @@
+{
+	"name": "spectabile-material-theme",
+	"displayName": "Spectabile Material Theme",
+	"description": "Dark color theme with a teal accent palette and semantic highlighting.",
+	"publisher": "Spectabile",
+	"author": {
+		"name": "SPECTABILE."
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/spectabile/spectabile-material-theme"
+	},
+	"version": "1.1.0",
+	"icon": "./images/icon.png",
+	"engines": {
+		"vscode": "^1.98.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"color theme",
+		"dark",
+		"material",
+		"oceanic",
+		"teal"
+	],
+	"galleryBanner": {
+		"color": "#263238",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Spectabile Material Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-color-theme.json"
+			},
+			{
+				"label": "Spectabile Material Light",
+				"uiTheme": "vs",
+				"path": "./themes/light-color-theme.json"
+			}
+		]
+	}
+}
