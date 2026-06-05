@@ -4,6 +4,10 @@ All notable changes to the "spectabile-material-theme" extension will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.1] — 2026-06-05
+
+- Fix extension description to mention both dark and light themes
+
 ## [1.1.0] — 2026-06-05
 
 - Added light color theme: **Spectabile Material Light**
