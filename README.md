@@ -35,7 +35,7 @@ The theme is designed and tested with **JetBrains Mono NF**. Font weight matters
 
 | Font | Download |
 |---|---|
-| JetBrains Mono NF *(primary choice)* | [github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/releases) |
+| JetBrains Mono NF *(primary choice)* | [jetbrains.com/lp/mono](https://www.jetbrains.com/lp/mono/) |
 | MesloLGS Nerd Font | [github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/releases) |
 | MesloLGS NF | [github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k/blob/master/font.md) |
 | Fira Code | [github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode) |
