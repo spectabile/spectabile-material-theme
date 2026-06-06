@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.5] — 2026-06-06
+
+- CHANGELOG: removed boilerplate header
+
 ## [1.1.4] — 2026-06-06
 
 - README: improved opening description, added Origin section with Material Theme history

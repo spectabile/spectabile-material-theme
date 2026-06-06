@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/spectabile/spectabile-material-theme"
 	},
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"icon": "./images/icon.png",
 	"engines": {
 		"vscode": "^1.61.0"
