@@ -1,6 +1,6 @@
 # Spectabile Material Theme
 
-A spiritual successor to the popular **Material Theme** (**[Equinusocio.vsc-material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)**, now deprecated) — rebuilt from scratch, no tracking, no bundled binaries. Available in **dark** and **light** variants, with semantic highlighting enabled and hand-tuned token colors for PHP, JavaScript, TypeScript, Python, and more.
+A "spiritual" successor to the popular **[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)** (now deprecated) - rebuilt from scratch. Available in **dark** and **light** variants, with semantic highlighting enabled and hand-tuned token colors for PHP, JavaScript, CSS, TypeScript, Python, and more.
 
 ---
 
@@ -9,29 +9,28 @@ A spiritual successor to the popular **Material Theme** (**[Equinusocio.vsc-mate
 ### Spectabile Material Dark
 
 ![](images/dark/02.screen-overall-js.png)
+
 ![](images/dark/03.screen-php-method.png)
+
 ![](images/dark/06.screen-js.png)
+
 ![](images/dark/08.screen-css.png)
 
 ### Spectabile Material Light
 
 ![](images/light/02.screen-overall-js.png)
+
 ![](images/light/03.screen-php-method.png)
+
 ![](images/light/06.screen-js.png)
+
 ![](images/light/08.screen-css.png)
 
 ---
 
 ## Recommended Fonts
 
-The theme is designed and tested with **JetBrains Mono NF**. Font weight matters a lot with monospace themes:
-
-| Theme variant | Recommended weight | Why |
-|---|---|---|
-| Spectabile Material Dark | **Extralight** | Fine strokes feel at home against a dark background — heavy weights can feel noisy |
-| Spectabile Material Light | **Light** or **Regular** | Heavier strokes improve contrast and legibility on a light background |
-
-**Tested and recommended fonts:**
+**Recommended fonts:**
 
 | Font | Download |
 |---|---|
@@ -39,6 +38,13 @@ The theme is designed and tested with **JetBrains Mono NF**. Font weight matters
 | MesloLGS Nerd Font | [github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/releases) |
 | MesloLGS NF | [github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k/blob/master/font.md) |
 | Fira Code | [github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode) |
+
+The theme is designed and tested with **JetBrains Mono NF**. Font weight matters with monospace themes:
+
+| Theme variant | Recommended weight (for JetBrains Mono NF) | Why |
+|---|---|---|
+| Spectabile Material Dark | **Extra Light** | Fine strokes feel at home against a dark background — heavy weights can feel noisy |
+| Spectabile Material Light | **Light** or **Regular** | Heavier strokes improve contrast and legibility on a light background |
 
 ## Recommended Icon Theme
 
