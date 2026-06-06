@@ -4,6 +4,15 @@ All notable changes to the "spectabile-material-theme" extension will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.4] — 2026-06-06
+
+- README: improved opening description, added Origin section with Material Theme history
+- Lowered minimum VS Code engine version to 1.61.0
+
+## [1.1.3] — 2026-06-06
+
+- README: updated JetBrains Mono NF font weight recommendations
+
 ## [1.1.2] — 2026-06-05
 
 - Fix JetBrains Mono NF download link in README (now points to jetbrains.com)

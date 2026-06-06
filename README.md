@@ -1,6 +1,6 @@
 # Spectabile Material Theme
 
-A "spiritual" successor to the popular **[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)** (now deprecated) - rebuilt from scratch. Available in **dark** and **light** variants, with semantic highlighting enabled and hand-tuned token colors for PHP, JavaScript, CSS, TypeScript, Python, and more.
+A clean, focused color theme for VS Code — available in **dark** and **light** variants. Built on the standard VS Code theme structure: no bloat, no unnecessary files, just what the engine needs. Semantic highlighting is enabled by default, with hand-tuned token colors for PHP, JavaScript, CSS, TypeScript, Python, and more. Every color and token is fully override-friendly — tweak anything directly in your `settings.json` without touching the theme file.
 
 ---
 
@@ -28,9 +28,13 @@ A "spiritual" successor to the popular **[Material Theme](https://marketplace.vi
 
 ---
 
-## Recommended Fonts
+## Origin
 
-**Recommended fonts:**
+**[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)** was one of the most popular VS Code themes. In early 2025 it was caught up in a security controversy and has since been officially deprecated. Spectabile Material Theme is its spiritual successor: the same oceanic palette and teal accent DNA, rebuilt from scratch and kept deliberately clean.
+
+---
+
+## Recommended Fonts
 
 | Font | Download |
 |---|---|
