@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "spectabile-material-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [1.1.4] — 2026-06-06
 
 - README: improved opening description, added Origin section with Material Theme history
